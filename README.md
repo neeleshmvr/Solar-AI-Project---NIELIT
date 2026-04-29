@@ -1,4 +1,4 @@
-# ☀️ Solar-AI-Project---NIELIT
+# ☀️ Solar AI Dashboard
 
 An AI-based solar power forecasting and energy management project developed using Python and Streamlit. This project predicts solar AC power generation using weather and irradiation data, displays revenue insights, and provides simple smart energy suggestions.
 
@@ -78,5 +78,5 @@ The dashboard displays:
 * Smart grid connectivity
 
 
-Developed as an academic project for solar power forecasting and energy management.
 
+This project was developed for learning and academic purposes.
