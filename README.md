@@ -78,7 +78,6 @@ The dashboard displays:
 * Smart grid connectivity
 
 ## 👨‍💻 Author
-Developed as an academic project
 
 
 
