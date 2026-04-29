@@ -76,7 +76,3 @@ The dashboard displays:
 * Real-time IoT sensor integration
 * Battery optimization system
 * Smart grid connectivity
-
-
-
-This project was developed for learning and academic purposes.
