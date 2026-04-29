@@ -79,5 +79,14 @@ The dashboard displays:
 
 ## 👨‍💻 Author
 Developed as an academic project
+
+
+
+
+
+
+
+
+
 Developed as an academic project for solar power forecasting and energy management.
 
