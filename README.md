@@ -77,15 +77,6 @@ The dashboard displays:
 * Battery optimization system
 * Smart grid connectivity
 
-## 👨‍💻 Author
-
-
-
-
-
-
-
-
 
 Developed as an academic project for solar power forecasting and energy management.
 
